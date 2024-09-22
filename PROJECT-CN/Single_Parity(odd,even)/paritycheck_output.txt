@@ -1,0 +1,9 @@
+		
+************< Welcome to PARITY BIT ERROR DETECTION > ************
+
+ ------OPTIONS------ 
+1.ENTER DATA 
+2.ADD PARITY EVEN 
+3.ADD PARITY ODD 
+4.ERROR CHECKER
+5.EXIT 

@@ -1,0 +1,29 @@
+	
+*******< Welcome to CHECKSUM ERROR DETECTION > *******
+1011<-Segment [1]
+0100<-Segment [2]
+1111<-Segment [3]
+-----------------
+1110<-Sum1
+0001<-Carry
+-----------------
+1111<-Sum2
+-----------------
+0000<-CHECKSUM SENDER SIDE
+
+Now sender is sending the segments with checksum ... 
+
+------------------------------------------
+Hello Transmission channel do you want to alter message (y/n): y
+1011<-Segment [1]
+0100<-Segment [2]
+1111<-Segment [3]
+0000<-CHECKSUM (Receiver)
+-----------------
+1110<-Sum1
+0001<-Carry
+-----------------
+1111<-Sum2
+-----------------
+0000<-CHECKSUM
+Accepted!
